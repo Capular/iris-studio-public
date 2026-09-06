@@ -1,8 +1,8 @@
-version: 2.7.9
+version: 2.7.10
 files:
-  - url: IrisStudioSetup_v2.7.9.exe
-    sha512: tYRw+jlfIm2hGl2wToibejhtotbPDYGlH8cM3akqxTVB990ooKiF7IpXqWBy/niDOS0vnm50SF2E2Qgsoa3mew==
-    size: 85505408
-path: IrisStudioSetup_v2.7.9.exe
-sha512: tYRw+jlfIm2hGl2wToibejhtotbPDYGlH8cM3akqxTVB990ooKiF7IpXqWBy/niDOS0vnm50SF2E2Qgsoa3mew==
-releaseDate: '2026-09-06T11:03:08.101Z'
+  - url: IrisStudioSetup_v2.7.10.exe
+    sha512: cGEp7b/TzARKHzjkDYrl+Q7YvQMwfl8Vvx07CNrQoMiZbVZBgMb1UmfJ7kXKI+T9TrJWcFWEsgTVXhiZxg43CA==
+    size: 85506544
+path: IrisStudioSetup_v2.7.10.exe
+sha512: cGEp7b/TzARKHzjkDYrl+Q7YvQMwfl8Vvx07CNrQoMiZbVZBgMb1UmfJ7kXKI+T9TrJWcFWEsgTVXhiZxg43CA==
+releaseDate: '2026-09-06T11:19:30.448Z'
