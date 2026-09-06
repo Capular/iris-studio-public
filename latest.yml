@@ -1,0 +1,8 @@
+version: 2.7.5
+files:
+  - url: IrisStudioSetup_v2.7.5.exe
+    sha512: LRvSt3EClL/esq7NPE7HjgQnEaUaX2R8WZnsjQLkt1m5amJs1A6KjKhYAtfzYO1VyXGQ8CcuK1uGk3tYnmu1tA==
+    size: 85500412
+path: IrisStudioSetup_v2.7.5.exe
+sha512: LRvSt3EClL/esq7NPE7HjgQnEaUaX2R8WZnsjQLkt1m5amJs1A6KjKhYAtfzYO1VyXGQ8CcuK1uGk3tYnmu1tA==
+releaseDate: '2026-09-06T09:07:33.149Z'
