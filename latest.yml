@@ -1,8 +1,8 @@
-version: 2.7.55
+version: 2.7.56
 files:
-  - url: IrisStudioSetup_v2.7.55.exe
-    sha512: nMg0MBRqRT5BD7MH0Dc6+m6pRZO2ZpofbPiSqiPjglm2oXuiA1gAqw+sKv8sTo2Kf155HSZeJvg8OBeBPtTOEg==
-    size: 86752401
-path: IrisStudioSetup_v2.7.55.exe
-sha512: nMg0MBRqRT5BD7MH0Dc6+m6pRZO2ZpofbPiSqiPjglm2oXuiA1gAqw+sKv8sTo2Kf155HSZeJvg8OBeBPtTOEg==
-releaseDate: '2026-09-21T15:37:33.846Z'
+  - url: IrisStudioSetup_v2.7.56.exe
+    sha512: AMOuGQsXz9WcPed2uPR/QLn40E3YH80/UWwcK1sM0gt58Bw67aL2J7lUcGu8NOq+t7pWmroPN8zupBvPaeW7Yg==
+    size: 86752976
+path: IrisStudioSetup_v2.7.56.exe
+sha512: AMOuGQsXz9WcPed2uPR/QLn40E3YH80/UWwcK1sM0gt58Bw67aL2J7lUcGu8NOq+t7pWmroPN8zupBvPaeW7Yg==
+releaseDate: '2026-09-22T15:58:30.257Z'
